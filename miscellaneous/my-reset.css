@@ -1,3 +1,13 @@
+/*
+ * Description: This is a CSS reset for use in personal projects.
+ * Author: Pedro Augusto (https://github.com/PedroASB)
+ *
+ * Based on: 
+    * Matt Brictson's recommendations (https://mattbrictson.com/blog/css-normalize-and-reset)
+    * Josh Comeau's custom CSS reset (https://www.joshwcomeau.com/css/custom-css-reset/)
+ */
+
+
 /* Use box-sizing model */
 *, *::before, *::after {
     box-sizing: border-box;
