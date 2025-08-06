@@ -6,7 +6,7 @@
 
 ## Overview
 
-This repository contains my projects from the Foundations Course of [The Odin Project](https://www.theodinproject.com/). The course offers a hands-on introduction to the essential tools required to build real, functional websites. These projects mark the beginning of my journey into full stack development. While they are simple, I've put care and effort into each one to build a solid foundation in HTML, CSS and JavaScript. See the table below for a quick summary of each project.
+This is an overview of my projects from the Foundations Course of [The Odin Project](https://www.theodinproject.com/). This course offers a hands-on introduction to the essential tools required to build real, functional websites. These projects mark the beginning of my journey into full stack development. While they are simple, I've put care and effort into each one to build a solid foundation in HTML, CSS and JavaScript. See the table below for a quick summary of each project.
 
 | 📝 __Project__ | 📕 __Description__ | ⚙️ __Features__ | 📁 __Repository__ |
 | :------------- | :----------------- | :-------------- | :-------------------- |
