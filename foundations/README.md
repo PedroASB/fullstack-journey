@@ -16,7 +16,7 @@ This is an overview of my projects from the Foundations Course of [The Odin Proj
 | **Etch A Sketch** | A browser version of a sketchpad, that consists on a grid such that the user can paint or erase each square. | HTML + CSS + JavaScript | [etch-a-sketch](<https://github.com/PedroASB/etch-a-sketch>) |
 | **Calculator** | A traditional web-based calculator that supports the four basic arithmetic operations. | HTML + CSS + JavaScript | [calculator](<https://github.com/PedroASB/calculator>) |
 
----
+<br>
 
 # Project Previews
 
@@ -24,21 +24,25 @@ This is an overview of my projects from the Foundations Course of [The Odin Proj
 ![Odin Recipes Screenshot](<./screenshots/odin-recipes-screenshot.png>)
 
 ---
+<br>
 
 ## Landing Page
 ![Landing Page Screenshot](<./screenshots/landing-page-screenshot.png>)
 
 ---
+<br>
 
 ## Rock Paper Scissors
 ![Rock Paper Scissors Screenshot](<./screenshots/rock-paper-scissors-screenshot.png>)
 
 ---
+<br>
 
 ## Etch A Sketch
 ![Etch A Sketch Screenshot](<./screenshots/etch-a-sketch-screenshot.png>)
 
 ---
+<br>
 
 ## Calculator
 ![Calculator Screenshot](<./screenshots/calculator-screenshot.png>)

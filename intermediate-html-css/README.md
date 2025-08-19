@@ -21,6 +21,7 @@ These projects are from Intermediate HTML and CSS course. _(in progress)_
 ![Sign-up Form Screenshot](<./screenshots/sign-up-form-screenshot.png>)
 
 <!-- ---
+<br>
 
 ## Admin Dashboard
 ![Admin Dashboard Screenshot](<./screenshots/admin-dashboard-screenshot.png>) -->

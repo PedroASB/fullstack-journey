@@ -18,7 +18,6 @@
 
 <br>
 
-
 # Project Previews
 
 ## Sign-up Form
