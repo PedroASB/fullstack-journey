@@ -11,8 +11,8 @@ These are my projects from Intermediate HTML and CSS course.
 
 | 📝 __Project__ | 📕 __Description__ | ⚙️ __Features__ | 📁 __Repository__ |
 | :------------- | :----------------- | :-------------- | :-------------------- |
-| **Sign-up Form** | A sign-up form for a fictional travel booking platform. | HTML, CSS, Form | [sign-up-form](<https://github.com/PedroASB/sign-up-form>) |
-| **Admin Dashboard** | A grid-based dashboard interface | HTML, CSS, JavaScript, Grid | [admin-dashboard](<https://github.com/PedroASB/admin-dashboard>) |
+| **Sign-up Form** | A sign-up form for a fictional travel booking platform. | HTML, CSS, Web Form | [sign-up-form](<https://github.com/PedroASB/sign-up-form>) |
+| **Admin Dashboard** | A grid-based dashboard interface that displays projects within cards. | HTML, CSS, JavaScript, Grid | [admin-dashboard](<https://github.com/PedroASB/admin-dashboard>) |
 
 <br>
 
