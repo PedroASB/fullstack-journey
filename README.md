@@ -7,6 +7,13 @@
     - JavaScript
     - Flexbox, Grid, Forms
 
+- What I've learned so far:
+    - **HTML** (_Main HTML Elements, Landing Pages, Web Forms, ..._)
+    - **CSS** (_Positioning, CSS Units, Advanced Selectors, Flexbox, Grid, ..._)
+    - **JavaScript** (_DOM Manipulation, POJOs, Object Constructors, Factory Functions, Module Pattern, ..._)
+
+
+
 ## Featured Projects
 
 | 📝 __Project__ | 📕 __Description__ | ⚙️ __Features__ | 📁 __Repository__ |
