@@ -11,6 +11,7 @@ These are my projects from JavaScript course. _(in progress)_
 | 📝 __Project__ | 📕 __Description__ | ⚙️ __Features__ | 📁 __Repository__ |
 | :------------- | :----------------- | :-------------- | :-------------------- |
 | **Library** | A library app interface that displays books within cards, which can be added via a form. | HTML, CSS, JavaScript, Object Constructors | [library](<https://github.com/PedroASB/library>) |
+| **Tic-Tac-Toe** | A classic Tic-Tac-Toe game for browser. | HTML, CSS, JavaScript, Factory Functions | [tic-tac-toe](<https://github.com/PedroASB/tic-tac-toe>) |
 
 <br>
 
@@ -19,10 +20,10 @@ These are my projects from JavaScript course. _(in progress)_
 ## Library
 ![Sign-up Form Screenshot](<./screenshots/library-screenshot.png>)
 
-<!-- ---
+---
 <br>
 
-## ???
-![??? Screenshot](<./screenshots/???-screenshot.png>)
- -->
+## Tic-Tac-Toe
+![Tic-Tac-Toe Screenshot](<./screenshots/tic-tac-toe-screenshot.png>)
+
 
