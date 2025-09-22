@@ -2,12 +2,6 @@
 
 - My Full Stack JavaScript projects from [The Odin Project](https://www.theodinproject.com/).
 - What I've learned so far:
-    - HTML
-    - CSS
-    - JavaScript
-    - Flexbox, Grid, Forms
-
-- What I've learned so far:
     - **HTML** (_Main HTML Elements, Landing Pages, Web Forms, ..._)
     - **CSS** (_Positioning, CSS Units, Advanced Selectors, Flexbox, Grid, ..._)
     - **JavaScript** (_DOM Manipulation, POJOs, Object Constructors, Factory Functions, Module Pattern, ..._)
