@@ -11,6 +11,7 @@
 
 | 📝 __Project__ | 📕 __Description__ | ⚙️ __Features__ | 📁 __Repository__ |
 | :------------- | :----------------- | :-------------- | :-------------------- |
+| **Tic-Tac-Toe** | A classic Tic-Tac-Toe game for browser. | HTML, CSS, JavaScript, Factory Functions | [tic-tac-toe](<https://github.com/PedroASB/tic-tac-toe>) |
 | **Library** | A library app interface that displays books within cards, which can be added via a form. | HTML, CSS, JS, Object Constructors | [library](<https://github.com/PedroASB/library>) |
 | **Admin Dashboard** | A grid-based dashboard interface that displays projects within cards. | HTML, CSS, JS, Grid | [admin-dashboard](<https://github.com/PedroASB/admin-dashboard>) |
 | **Sign-up Form** | A sign-up form for a fictional travel booking platform. | HTML, CSS, Web Form | [sign-up-form](<https://github.com/PedroASB/sign-up-form>) |
@@ -21,6 +22,12 @@
 <br>
 
 # Project Previews
+
+## Tic-Tac-Toe
+![Tic-Tac-Toe Screenshot](<./javascript/screenshots/tic-tac-toe-screenshot.png>)
+
+---
+<br>
 
 ## Library
 ![Library Screenshot](<./javascript/screenshots/library-screenshot.png>)
