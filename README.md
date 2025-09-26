@@ -4,7 +4,7 @@
 - What I've learned so far:
     - **HTML** (_Main HTML Elements, Landing Pages, Web Forms, ..._)
     - **CSS** (_Positioning, CSS Units, Advanced Selectors, Flexbox, Grid, ..._)
-    - **JavaScript** (_DOM Manipulation, POJOs, Object Constructors, Factory Functions, Module Pattern, ..._)
+    - **JavaScript** (_DOM Manipulation, POJOs, Object Constructors, Factory Functions, Module Pattern, Classes, ES6 Modules, Webpack, ..._)
 
 
 
@@ -12,6 +12,7 @@
 
 | 📝 __Project__ | 📕 __Description__ | ⚙️ __Features__ | 📁 __Repository__ |
 | :------------- | :----------------- | :-------------- | :-------------------- |
+| **Restaurant Page** | A web page for a fictional restaurant. | HTML, CSS, JavaScript, ES6 Modules, Webpack | [restaurant-page](<https://github.com/PedroASB/restaurant-page>) |
 | **Tic-Tac-Toe** | A classic Tic-Tac-Toe game for browser. | HTML, CSS, JavaScript, Factory Functions | [tic-tac-toe](<https://github.com/PedroASB/tic-tac-toe>) |
 | **Library** | A library app interface that displays books within cards, which can be added via a form. | HTML, CSS, JS, Object Constructors | [library](<https://github.com/PedroASB/library>) |
 | **Admin Dashboard** | A grid-based dashboard interface that displays projects within cards. | HTML, CSS, JS, Grid | [admin-dashboard](<https://github.com/PedroASB/admin-dashboard>) |
@@ -23,6 +24,12 @@
 <br>
 
 # Project Previews
+
+## Restaurant Page
+![Restaurant Page Screenshot](<./javascript/screenshots/restaurant-page-screenshot.png>)
+
+---
+<br>
 
 ## Tic-Tac-Toe
 ![Tic-Tac-Toe Screenshot](<./javascript/screenshots/tic-tac-toe-screenshot.png>)
