@@ -4,7 +4,7 @@
 - What I've learned so far:
     - **HTML** (_Main HTML Elements, Landing Pages, Web Forms, ..._)
     - **CSS** (_Positioning, CSS Units, Advanced Selectors, Flexbox, Grid, ..._)
-    - **JavaScript** (_DOM Manipulation, POJOs, Object Constructors, Factory Functions, Module Pattern, Classes, ES6 Modules, Webpack, ..._)
+    - **JavaScript** (_DOM Manipulation, POJOs, Object Constructors, Factory Functions, Module Pattern, Classes, ES6 Modules, Webpack, SOLID principles, Local Storage..._)
 
 
 
@@ -26,55 +26,55 @@
 
 # Project Previews
 
-## Todo List
+## [Todo List](https://github.com/PedroASB/todo-list)
 ![Todo List](<./javascript/screenshots/todo-list-screenshot.png>)
 
 ---
 <br>
 
-## Restaurant Page
+## [Restaurant Page](https://github.com/PedroASB/restaurant-page)
 ![Restaurant Page Screenshot](<./javascript/screenshots/restaurant-page-screenshot.png>)
 
 ---
 <br>
 
-## Tic-Tac-Toe
+## [Tic-Tac-Toe](https://github.com/PedroASB/tic-tac-toe)
 ![Tic-Tac-Toe Screenshot](<./javascript/screenshots/tic-tac-toe-screenshot.png>)
 
 ---
 <br>
 
-## Library
+## [Library](https://github.com/PedroASB/library)
 ![Library Screenshot](<./javascript/screenshots/library-screenshot.png>)
 
 ---
 <br>
 
 
-## Admin Dashboard
+## [Admin Dashboard](https://github.com/PedroASB/admin-dashboard)
 ![Admin Dashboard Screenshot](<./intermediate-html-css/screenshots/admin-dashboard-screenshot.png>)
 
 ---
 <br>
 
 
-## Sign-up Form
+## [Sign-up Form](https://github.com/PedroASB/sign-up-form)
 ![Sign-up Form Screenshot](<./intermediate-html-css/screenshots/sign-up-form-screenshot.png>)
 
 ---
 <br>
 
-## Calculator
+## [Calculator](https://github.com/PedroASB/calculator)
 ![Calculator Screenshot](<./foundations/screenshots/calculator-screenshot.png>)
 
 ---
 <br>
 
-## Etch A Sketch
+## [Etch A Sketch](https://github.com/PedroASB/etch-a-sketch)
 ![Etch A Sketch Screenshot](<./foundations/screenshots/etch-a-sketch-screenshot.png>)
 
 ---
 <br>
 
-## Landing Page
+## [Landing Page](https://github.com/PedroASB/landing-page)
 ![Landing Page Screenshot](<./foundations/screenshots/landing-page-screenshot.png>)
