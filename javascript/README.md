@@ -22,6 +22,7 @@ These are my projects from JavaScript course. _(in progress)_
 | **Weather App**     | A weather forecast website using the Visual Crossing API.                                | HTML, CSS, JavaScript, Async/Await, APIs    | [weather-app](https://github.com/PedroASB/weather-app)         |
 | **DSA JavaScript**  | Data structures and algorithms in JavaScript.                                            | JavaScript, Data Structures, Algorithms     | [dsa-javascript](https://github.com/PedroASB/dsa-javascript)   |
 | **Jest Practice**   | Some JavaScript functions tests using Jest framework.                                    | HTML, CSS, JavaScript, Async/Await, APIs    | [jest-practice](https://github.com/PedroASB/jest-practice)     |
+| **Battleship**      | A web version of the classic Battleship game.                                            | HTML, CSS, JavaScript, Jest, TDD            | [battleship](https://github.com/PedroASB/battleship)           |
 
 <br>
 
@@ -62,3 +63,11 @@ These are my projects from JavaScript course. _(in progress)_
 ## Weather App
 
 ![Weather App](./screenshots/weather-app-screenshot.png)
+
+---
+
+<br>
+
+## Battleship
+
+![Battleship](./screenshots/battleship-screenshot.png)
