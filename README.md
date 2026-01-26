@@ -4,20 +4,20 @@
 - What I've learned so far:
   - **HTML** (_Main HTML Elements, Landing Pages, Web Forms, ..._)
   - **CSS** (_Positioning, CSS Units, Advanced Selectors, Flexbox, Grid, ..._)
-  - **JavaScript** (_DOM Manipulation, POJOs, Object Constructors, Factory Functions, Module Pattern, Classes, ES6 Modules, Webpack, SOLID principles, Local Storage, Asynchronous Functions, APIs, Data Structures and Algorithms, Test Driven Development (TDD), Jest testing framework..._)
+  - **JavaScript** (_DOM Manipulation, POJOs, Object Constructors, Factory Functions, Module Pattern, Classes, ES6 Modules, Webpack, SOLID principles, Local Storage, Asynchronous Functions, APIs, Data Structures and Algorithms, Test Driven Development (TDD), Jest testing framework, ..._)
 
 ## Featured Projects
 
 | 📝 **Project**      | 📕 **Description**                                                                                           | ⚙️ **Features**                             | 📁 **Repository**                                              |
 | :------------------ | :----------------------------------------------------------------------------------------------------------- | :------------------------------------------ | :------------------------------------------------------------- |
 | **Weather App**     | A weather forecast website using the Visual Crossing API.                                                    | HTML, CSS, JavaScript, Async/Await, APIs    | [weather-app](https://github.com/PedroASB/weather-app)         |
+| **Battleship**      | A web version of the classic Battleship game.                                                                | HTML, CSS, JavaScript, Jest, TDD            | [battleship](https://github.com/PedroASB/battleship)           |
 | **Todo List**       | A to-do list application that lets users create and manage tasks and projects.                               | HTML, CSS, JavaScript, Local Storage        | [todo-list](https://github.com/PedroASB/todo-list)             |
 | **Restaurant Page** | A web page for a fictional restaurant.                                                                       | HTML, CSS, JavaScript, ES6 Modules, Webpack | [restaurant-page](https://github.com/PedroASB/restaurant-page) |
-| **Tic-Tac-Toe**     | A classic Tic-Tac-Toe game for browser.                                                                      | HTML, CSS, JavaScript, Factory Functions    | [tic-tac-toe](https://github.com/PedroASB/tic-tac-toe)         |
-| **Library**         | A library app interface that displays books within cards, which can be added via a form.                     | HTML, CSS, JS, Object Constructors          | [library](https://github.com/PedroASB/library)                 |
+| **Calculator**      | A traditional web-based calculator that supports the four basic arithmetic operations.                       | HTML, CSS, JS                               | [calculator](https://github.com/PedroASB/calculator)           |
 | **Admin Dashboard** | A grid-based dashboard interface that displays projects within cards.                                        | HTML, CSS, JS, Grid                         | [admin-dashboard](https://github.com/PedroASB/admin-dashboard) |
 | **Sign-up Form**    | A sign-up form for a fictional travel booking platform.                                                      | HTML, CSS, Web Form                         | [sign-up-form](https://github.com/PedroASB/sign-up-form)       |
-| **Calculator**      | A traditional web-based calculator that supports the four basic arithmetic operations.                       | HTML, CSS, JS                               | [calculator](https://github.com/PedroASB/calculator)           |
+| **Tic-Tac-Toe**     | A classic Tic-Tac-Toe game for browser.                                                                      | HTML, CSS, JavaScript, Factory Functions    | [tic-tac-toe](https://github.com/PedroASB/tic-tac-toe)         |
 | **Etch A Sketch**   | A browser version of a sketchpad, that consists on a grid such that the user can paint or erase each square. | HTML, CSS, JS                               | [etch-a-sketch](https://github.com/PedroASB/etch-a-sketch)     |
 | **Landing Page**    | A landing page for a fictional online programming courses platform.                                          | HTML, CSS, Flexbox                          | [landing-page](https://github.com/PedroASB/landing-page)       |
 
@@ -30,6 +30,16 @@
 ![Weather App](./javascript/screenshots/weather-app-screenshot.png)
 
 ---
+
+<br>
+
+## [Battleship](https://github.com/PedroASB/battleship)
+
+![Battleship](./javascript/screenshots/battleship-screenshot.png)
+
+---
+
+<br>
 
 ## [Todo List](https://github.com/PedroASB/todo-list)
 
@@ -47,17 +57,9 @@
 
 <br>
 
-## [Tic-Tac-Toe](https://github.com/PedroASB/tic-tac-toe)
+## [Calculator](https://github.com/PedroASB/calculator)
 
-![Tic-Tac-Toe Screenshot](./javascript/screenshots/tic-tac-toe-screenshot.png)
-
----
-
-<br>
-
-## [Library](https://github.com/PedroASB/library)
-
-![Library Screenshot](./javascript/screenshots/library-screenshot.png)
+![Calculator Screenshot](./foundations/screenshots/calculator-screenshot.png)
 
 ---
 
@@ -79,9 +81,9 @@
 
 <br>
 
-## [Calculator](https://github.com/PedroASB/calculator)
+## [Tic-Tac-Toe](https://github.com/PedroASB/tic-tac-toe)
 
-![Calculator Screenshot](./foundations/screenshots/calculator-screenshot.png)
+![Tic-Tac-Toe Screenshot](./javascript/screenshots/tic-tac-toe-screenshot.png)
 
 ---
 
