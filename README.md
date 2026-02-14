@@ -1,10 +1,11 @@
 # Full Stack Journey
 
-- My Full Stack JavaScript projects from [The Odin Project](https://www.theodinproject.com/).
-- What I've learned so far:
+This is an overview of my projects from [The Odin Project](https://www.theodinproject.com/).
+
+<!-- - What I've learned so far:
   - **HTML** (_Main HTML Elements, Landing Pages, Web Forms, ..._)
   - **CSS** (_Positioning, CSS Units, Advanced Selectors, Flexbox, Grid, ..._)
-  - **JavaScript** (_DOM Manipulation, POJOs, Object Constructors, Factory Functions, Module Pattern, Classes, ES6 Modules, Webpack, SOLID principles, Local Storage, Asynchronous Functions, APIs, Data Structures and Algorithms, Test Driven Development (TDD), Jest testing framework, ..._)
+  - **JavaScript** (_DOM Manipulation, POJOs, Object Constructors, Factory Functions, Module Pattern, Classes, ES6 Modules, Webpack, SOLID principles, Local Storage, Asynchronous Functions, APIs, Data Structures and Algorithms, Test Driven Development (TDD), Jest testing framework, ..._) -->
 
 ## Featured Projects
 
